@@ -18,6 +18,7 @@ for i in range(1, nr_symbols + 1):
     u_pass += random.choice(symbols)
 print(u_pass)
 '''
+
 # Hard level
 u_pass = []
 for i in range(1, nr_letters + 1):
