@@ -3,7 +3,7 @@ def area_calc(height, width, cover):
     quant = math.ceil((height * width) / cover)
 
     print(f"You'll need {quant} cans of paint")
-
+print("Welcome to PaintCalculator")
 test_h = int(input("Height of wall: "))
 test_w = int(input("Width of wall: "))
 test_c = int(input("Cover of wall: "))
